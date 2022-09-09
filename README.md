@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dean-011
 - 👀 I’m interested in ... new and emerging technologies
-- 🌱 I’m currently learning ... python / java
+- 🌱 I’m currently learning ... python / java / php / laravel / 
 - 💞️ I’m looking to collaborate on ... crypto
 - 📫 How to reach me ... 
 
